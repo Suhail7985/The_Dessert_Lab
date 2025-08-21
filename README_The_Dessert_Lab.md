@@ -97,8 +97,8 @@ This project is licensed under the **MIT License**.
 
 ## Author
 
-Developed by **[Your Name]**  
-Contact: [your.email@example.com]  
+Developed by **[Mohd Suhail]**  
+Contact: [suhailmansoori7985@gmail.com]  
 
 ---
 

@@ -6,4 +6,6 @@ build/
 *.log
 cafe-frontend/node_modules/
 cafe-backend/node_modules/
-cafe-
+cafe-frontend/.env
+cafe-backend/.env
+.vscode/
